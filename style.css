@@ -1,3 +1,61 @@
+body{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+}
+header{
+    background-color: gainsboro;
+    height: 115px;
+    padding-bottom: 1px; 
+    text-align: center;
+}
+.div1{
+    padding: 20px 3px; 
+    
+}
 
-
-
+main{
+    text-align: justify;
+    background-color: #dcdcdc ;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.div2{
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+}
+.div2 figure{
+    padding-bottom: 20px;
+}
+.div2 figure img{
+    height: 650px;
+    width: 1050px;
+    padding-bottom: 10px;
+}
+.p{
+    text-align: center;
+    padding: 30px;
+}
+span{
+    font-weight: bold;
+}
+.div3{
+    padding-left: 30%;
+    padding-right: 30%;
+    max-width: 800px;
+}
+.div3 ul li{
+    padding: 10px 3px;
+}
+.div4{
+    padding-left: 29%;
+    padding-right: 27%;
+    max-width: 800px;
+}
+footer{
+    padding-bottom: 5px;
+    background-color: #dcdcdc ;
+    padding-top: 1px;
+    text-align: center;
+}
